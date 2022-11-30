@@ -1,16 +1,19 @@
-# firebase_crud
+# Flutter Firebase CRUD App
 
-A new Flutter project.
+This a simple firebase CRUD app using Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+1. Add new product
+2. Update product
+3. Delete product
+4. View all products
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screens
+<img src="https://github.com/GayeKone222/firebase-crud/blob/main/screens-images/image1.jpeg" width="200" height="400" /><img src="https://github.com/GayeKone222/firebase-crud/blob/main/screens-images/image2.jpeg" width="200" height="400" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Firestore
+<img src="https://github.com/GayeKone222/firebase-crud/blob/main/screens-images/db-image.png" />
+
+
